@@ -13,7 +13,8 @@ All exponentiation expressions should be enclosed in parentheses. See the exampl
 * Install [NodeJS](https://nodejs.org/en/download/) and make sure you can run `node` from a console.
 
 ## Executing
-Run `node ./js/index.js` in the project folder and enter you expression. 
+Run `node ./js/index.js` in the project folder and enter you expression.
+
 *Note:* The evaluator disregards whitespace characters, so expressions `(27 - 9 / 3) + (4 * 3 - 9)` and `(27-9/3)+(4*3-9)` are equal.
 
 Refer to `js/index.js` for usage in your JS projects.
